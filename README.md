@@ -31,6 +31,9 @@ Traditional security tools only monitor system logs (USB usage, logons). They pr
 # Quick Start
 *Bash*
 git clone https://github.com/joginder6/Project-Aegis-Insider-Threat-Predictor.git
+
 cd Project-Aegis-Insider-Threat-Predictor
+
 pip install -r requirements.txt
+
 python -m streamlit run app.py 
