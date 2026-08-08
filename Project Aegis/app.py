@@ -41,6 +41,8 @@ st.markdown("""
     </style>
 """, unsafe_allow_html=True)
 
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
 # --- ASSET LOADING ---
 @st.cache_resource
 def load_assets():
