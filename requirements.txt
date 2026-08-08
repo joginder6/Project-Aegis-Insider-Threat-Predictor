@@ -1,14 +1,7 @@
 streamlit
-numpy<2.0.0
 pandas
-matplotlib
+numpy<2.0.0
 scikit-learn
-pillow
-requests
-opencv-python-headless==4.10.0.84
-mediapipe==0.10.14
-tensorflow-cpu==2.16.1
-cvzone==1.6.1
-xgboost
 joblib
+xgboost
 google-genai
