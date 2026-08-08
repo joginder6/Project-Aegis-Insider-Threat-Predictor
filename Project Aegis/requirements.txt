@@ -1,7 +1,9 @@
 streamlit
 pandas
-numpy
+numpy<2.0.0
 scikit-learn
 joblib
 xgboost
 google-genai
+rich==13.9.4
+markdown-it-py==3.0.0
